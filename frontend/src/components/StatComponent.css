@@ -1,0 +1,22 @@
+.statComponentCard {
+  background-color: #191b3d !important;
+}
+
+.title-text {
+  color: #727493;
+}
+
+.css-16m3jxf-MuiTypography-root,
+.white-text {
+  color: white !important;
+}
+
+.value-text {
+  font-size: 30px;
+  color: #ff9538;
+}
+
+.unit-text {
+  font-size: 20px;
+  color: #8a5740;
+}

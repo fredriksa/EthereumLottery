@@ -1,0 +1,18 @@
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root.lotteryTable {
+  background-color: #191b3d;
+}
+
+.tableHeader {
+  color: #727493 !important;
+  border-bottom: 0 !important;
+}
+
+.tableColumn {
+  color: white !important;
+  border-bottom: 0 !important;
+}
+
+.joinLottery {
+  color: #0dac50 !important;
+  border-color: #0dac50 !important;
+}

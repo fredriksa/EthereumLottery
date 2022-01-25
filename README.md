@@ -10,6 +10,8 @@ Anyone can initiate a lottery, and anyone is eligible to participate. Multiple e
 - Node.js
 - Ethers.js
 - Mocha
+- React
+- MUI
 
 ## Languages
 

@@ -5,6 +5,9 @@ coverage.json
 typechain
 typechain-types
 
+./frontend/node_modules
+./frontend/.next
+
 #Hardhat files
 cache
 artifacts
